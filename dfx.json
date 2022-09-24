@@ -1,0 +1,8 @@
+{
+   "canisters": {
+       "ootw": {
+           "type": "assets",
+           "source": ["assets"]
+       }
+   }
+}
